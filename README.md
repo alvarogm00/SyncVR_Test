@@ -1,4 +1,5 @@
 SyncVR Skills Test
+
 This app is intended to simulate a VR app by substituting the head movements with mouse movements. I have chosen to simulate the app instead of compiling an actual VR app simply because I do not know which VR devices are at your disposal. In order to port this app to any VR device, it will only be needed to substitute de mouse control for head movement control.
 Since the app is intended to be used during a medical procedure, I assumed the patient will be in a seated or lying down position, meaning they wouldn’t be able to look around 360º.
 Instructions
